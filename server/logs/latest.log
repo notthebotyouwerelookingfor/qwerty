@@ -528,3 +528,9 @@
 
 [21:48:53] [Thread-22/INFO]: UUID of player Chasm is a9135625-ef58-363a-a5cf-ffc8d0732e29
 [21:48:53] [Server thread/INFO]: Chasm[/[0:0:0:0:0:0:0:1]:33848] logged in with entity id 4523 at ([world]-187.37312380531336, 87.17743220199732, 203.71798543654754)
+[21:51:42] [Server thread/INFO]: Chasm lost connection: Disconnected
+[21:51:42] [Server thread/INFO]: Chasm left the game.
+[21:51:45] [Thread-23/INFO]: UUID of player Chasm is a9135625-ef58-363a-a5cf-ffc8d0732e29
+[21:51:45] [Server thread/INFO]: Chasm[/[0:0:0:0:0:0:0:1]:59998] logged in with entity id 4848 at ([world]-188.70364821304847, 78.0, 206.55494225325123)
+[21:51:55] [Server thread/INFO]: Chasm lost connection: Disconnected
+[21:51:55] [Server thread/INFO]: Chasm left the game.

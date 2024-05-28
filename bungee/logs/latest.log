@@ -66,3 +66,12 @@
 [23:02:09] [Netty Worker IO Thread #2/INFO]: [Chasm] disconnected with: Exception Connecting:QuietException : Server is online mode!
 [23:02:09] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45552|Chasm] -> UpstreamBridge has disconnected
 [23:02:09] [Netty Worker IO Thread #2/INFO]: [Chasm|/[0:0:0:0:0:0:0:1%0]:45552] <-> ServerConnector [lobby] has disconnected
+[23:04:00] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56290]: Connected via websocket
+[23:04:00] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56290]: Origin header is null
+[23:04:00] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56290]: Logged in as 'Chasm'
+[23:04:00] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:56290|Chasm] -> UpstreamBridge has connected
+[23:04:00] [Netty Worker IO Thread #3/INFO]: [Chasm|/[0:0:0:0:0:0:0:1%0]:56290] <-> ServerConnector [lobby] has connected
+[23:04:00] [Netty Worker IO Thread #3/ERROR]: [Chasm|/[0:0:0:0:0:0:0:1%0]:56290] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[23:04:00] [Netty Worker IO Thread #3/INFO]: [Chasm] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[23:04:00] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:56290|Chasm] -> UpstreamBridge has disconnected
+[23:04:00] [Netty Worker IO Thread #3/INFO]: [Chasm|/[0:0:0:0:0:0:0:1%0]:56290] <-> ServerConnector [lobby] has disconnected

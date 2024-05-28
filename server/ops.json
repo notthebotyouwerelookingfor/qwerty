@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "594b1be6-de54-30b7-a185-ac2084a940cf",
+    "name": "Reed",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a9135625-ef58-363a-a5cf-ffc8d0732e29",
+    "name": "Chasm",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d5029347-1e35-3e32-87a1-b14330e8b617",
+    "name": "HappyIsSad",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

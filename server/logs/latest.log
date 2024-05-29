@@ -348,3 +348,25 @@ Caused by: java.lang.ClassNotFoundException: com.earth2me.essentials.IEssentials
 
 [11:01:37] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[11:03:58] [Thread-6/INFO]: UUID of player Chasm is a9135625-ef58-363a-a5cf-ffc8d0732e29
+[11:03:58] [Server thread/INFO]: Chasm[/[0:0:0:0:0:0:0:1]:52680] logged in with entity id 251 at ([world]-117.81488096247325, 64.0, 232.51848648580201)
+[11:04:04] [Server thread/INFO]: Chasm issued server command: /login lol69696
+[11:04:14] [Server thread/INFO]: Chasm issued server command: /register lol6969 lol6969
+[11:04:20] [Server thread/INFO]: Chasm issued server command: /login lol69696
+[11:04:28] [Server thread/INFO]: [AuthMe] Set Chasm to gamemode: CREATIVE
+[11:04:28] [Server thread/INFO]: Chasm lost connection: §fLogin Timeout
+[11:04:28] [Server thread/INFO]: Chasm left the game.
+[11:04:32] [Thread-7/INFO]: UUID of player Chasm is a9135625-ef58-363a-a5cf-ffc8d0732e29
+[11:04:32] [Server thread/INFO]: Chasm[/[0:0:0:0:0:0:0:1]:48504] logged in with entity id 277 at ([world]-117.81488096247325, 64.0, 232.51848648580201)
+[11:04:37] [Server thread/INFO]: Chasm issued server command: /login lol6969
+[11:04:46] [Server thread/INFO]: Chasm issued server command: /register lol6969
+[11:04:49] [Server thread/INFO]: Chasm lost connection: Disconnected
+[11:04:49] [Server thread/INFO]: Chasm left the game.
+[11:05:14] [Thread-8/INFO]: UUID of player Chasm is a9135625-ef58-363a-a5cf-ffc8d0732e29
+[11:05:14] [Server thread/INFO]: Chasm[/[0:0:0:0:0:0:0:1]:48134] logged in with entity id 290 at ([world]-117.81488096247325, 64.0, 232.51848648580201)
+[11:05:22] [Server thread/INFO]: Chasm issued server command: /login lol6969
+[11:05:36] [Server thread/INFO]: Chasm issued server command: /register lol6969 lol6969
+[11:05:39] [Server thread/INFO]: Chasm lost connection: Disconnected
+[11:05:39] [Server thread/INFO]: Chasm left the game.
+[11:11:32] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+

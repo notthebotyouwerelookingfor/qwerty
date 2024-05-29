@@ -39,14 +39,14 @@ change-displayname: true
 #add-prefix-suffix: false
 
 # The delay, in seconds, required between /home, /tp, etc.
-teleport-cooldown: 0
+teleport-cooldown: 5
 
 # The delay, in seconds, before a user actually teleports.  If the user moves or gets attacked in this timeframe, the teleport never occurs.
-teleport-delay: 0
+teleport-delay: 2
 
 # The delay, in seconds, a player can't be attacked by other players after they have been teleported by a command.
 # This will also prevent the player attacking other players.
-teleport-invulnerability: 4
+teleport-invulnerability: 2
 
 # The delay, in seconds, required between /heal attempts.
 heal-cooldown: 60

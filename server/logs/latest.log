@@ -306,3 +306,9 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [21:12:30] [Thread-6/INFO]: UUID of player Chasm is a9135625-ef58-363a-a5cf-ffc8d0732e29
 [21:12:30] [Server thread/INFO]: Chasm[/[0:0:0:0:0:0:0:1]:44736] logged in with entity id 269 at ([world]-236.94381700090432, 80.0, 110.19500644001147)
 [21:12:41] [Server thread/INFO]: Chasm issued server command: /plugins
+[21:13:37] [Server thread/INFO]: Chasm issued server command: /plist 1
+[21:16:24] [Server thread/INFO]: Chasm lost connection: Disconnected
+[21:16:24] [Server thread/INFO]: Chasm left the game.
+[21:16:32] [Thread-7/INFO]: UUID of player Chasm is a9135625-ef58-363a-a5cf-ffc8d0732e29
+[21:16:32] [Server thread/INFO]: Chasm[/[0:0:0:0:0:0:0:1]:59634] logged in with entity id 612 at ([world]-236.2838958718783, 80.0, 110.22527213252727)
+[21:22:11] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.

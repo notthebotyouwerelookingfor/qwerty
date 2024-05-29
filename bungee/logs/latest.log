@@ -1,77 +1,50 @@
-[11:03:23] [main/INFO]: Using mbed TLS based native cipher.
-[11:03:23] [main/INFO]: Using zlib based native compressor.
-[11:03:23] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
-[11:03:23] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
-[11:03:23] [main/INFO]: Epoll is working, utilising it!
-[11:03:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
-[11:03:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
-[11:03:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
-[11:03:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
-[11:03:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
-[11:03:23] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
-[11:03:23] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:23] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:23] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:23] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:23] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:23] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:23] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[11:03:23] [main/WARN]: :>  
-[11:03:23] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
-[11:03:23] [main/WARN]: :>  
-[11:03:23] [main/WARN]: :>  This plugin wasn't tested to be 'working'
-[11:03:23] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
-[11:03:23] [main/WARN]: :>  apart from the versions listed below:
-[11:03:23] [main/WARN]: :>  
-[11:03:23] [main/WARN]: :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
-[11:03:23] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
-[11:03:23] [main/WARN]: :>  - FlameCord: 1.1.1
-[11:03:23] [main/WARN]: :>  
-[11:03:23] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
-[11:03:23] [main/WARN]: :>  
-[11:03:23] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
-[11:03:23] [main/WARN]: :>  
-[11:03:23] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[11:03:23] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
-[11:03:24] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
-[11:03:24] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
-[11:03:24] [main/WARN]: Forced host server pvp is not defined
-[11:03:24] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:24] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:24] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:24] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:24] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:24] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[11:03:24] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
-[11:03:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
-[11:03:25] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[11:03:25] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
-[11:03:25] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
-[11:03:25] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/qwerty/bungee/plugins/EaglercraftXBungee/eagcert/$dl.36f4cf2b9f9f3eb802b83ceecd0083b45c6001f9.cert
-[11:03:41] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/qwerty/bungee/server-icon.png
-[11:03:58] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33628]: Connected via websocket
-[11:03:58] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33628]: Origin header is null
-[11:03:58] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33628]: Logged in as 'Chasm'
-[11:03:58] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:33628|Chasm] -> UpstreamBridge has connected
-[11:03:58] [Netty Worker IO Thread #2/INFO]: [Chasm|/[0:0:0:0:0:0:0:1%0]:33628] <-> ServerConnector [lobby] has connected
-[11:04:28] [Netty Worker IO Thread #2/INFO]: [Chasm] disconnected with: Login Timeout
-[11:04:28] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:33628|Chasm] -> UpstreamBridge has disconnected
-[11:04:28] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:33628|Chasm] <-> DownstreamBridge <-> [lobby] has disconnected
-[11:04:32] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48406]: Connected via websocket
-[11:04:32] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48406]: Origin header is null
-[11:04:32] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48406]: Logged in as 'Chasm'
-[11:04:32] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48406|Chasm] -> UpstreamBridge has connected
-[11:04:32] [Netty Worker IO Thread #3/INFO]: [Chasm|/[0:0:0:0:0:0:0:1%0]:48406] <-> ServerConnector [lobby] has connected
-[11:04:49] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48406|Chasm] -> UpstreamBridge has disconnected
-[11:04:49] [Netty Worker IO Thread #3/INFO]: [Chasm] disconnected with: Proxy lost connection to server.
-[11:04:49] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48406|Chasm] <-> DownstreamBridge <-> [lobby] has disconnected
-[11:05:14] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55190]: Connected via websocket
-[11:05:14] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55190]: Origin header is null
-[11:05:14] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55190]: Logged in as 'Chasm'
-[11:05:14] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:55190|Chasm] -> UpstreamBridge has connected
-[11:05:14] [Netty Worker IO Thread #1/INFO]: [Chasm|/[0:0:0:0:0:0:0:1%0]:55190] <-> ServerConnector [lobby] has connected
-[11:05:39] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:55190|Chasm] -> UpstreamBridge has disconnected
-[11:05:39] [Netty Worker IO Thread #1/INFO]: [Chasm] disconnected with: Proxy lost connection to server.
-[11:05:39] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:55190|Chasm] <-> DownstreamBridge <-> [lobby] has disconnected
-[11:11:41] [main/INFO]: Command not found
-[11:11:45] [main/INFO]: Command not found
+[11:17:49] [main/INFO]: Using mbed TLS based native cipher.
+[11:17:49] [main/INFO]: Using zlib based native compressor.
+[11:17:49] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
+[11:17:49] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[11:17:49] [main/INFO]: Epoll is working, utilising it!
+[11:17:50] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[11:17:50] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[11:17:50] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[11:17:50] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[11:17:50] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[11:17:50] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[11:17:50] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:50] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:50] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:50] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:50] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:50] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:50] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[11:17:50] [main/WARN]: :>  
+[11:17:50] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[11:17:50] [main/WARN]: :>  
+[11:17:50] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[11:17:50] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[11:17:50] [main/WARN]: :>  apart from the versions listed below:
+[11:17:50] [main/WARN]: :>  
+[11:17:50] [main/WARN]: :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+[11:17:50] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+[11:17:50] [main/WARN]: :>  - FlameCord: 1.1.1
+[11:17:50] [main/WARN]: :>  
+[11:17:50] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[11:17:50] [main/WARN]: :>  
+[11:17:50] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[11:17:50] [main/WARN]: :>  
+[11:17:50] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[11:17:50] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[11:17:51] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[11:17:51] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[11:17:51] [main/WARN]: Forced host server pvp is not defined
+[11:17:51] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:51] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:51] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:51] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:51] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:51] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[11:17:51] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[11:17:51] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[11:17:52] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[11:17:52] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[11:17:52] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[11:17:52] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/qwerty/bungee/plugins/EaglercraftXBungee/eagcert/$dl.36f4cf2b9f9f3eb802b83ceecd0083b45c6001f9.cert

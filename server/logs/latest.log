@@ -320,3 +320,4 @@ org.bukkit.plugin.UnknownDependencyException: PlaceholderAPI
 [01:44:03] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
 [01:44:03] [Craft Scheduler Thread - 1/INFO]: [XItemsRemover] §aThe latest version of the plugin is used.
+[01:44:49] [Server thread/INFO]: [Server] hi

@@ -35,10 +35,6 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
-    remove-unloaded:
-      enderpearls: true
-      tnt-entities: true
-      falling-blocks: true
     game-mechanics:
       boats-drop-boats: false
       disable-player-crits: false
@@ -50,8 +46,6 @@ world-settings:
       tnt-entities: false
       falling-blocks: false
     disable-teleportation-suffocation-check: false
-    mob-spawner-tick-rate: 1
-    cache-chunk-maps: false
     tnt-explosion-volume: 4.0
     squid-spawn-height:
       minimum: 45.0
@@ -69,8 +63,14 @@ world-settings:
       soft: 32
       hard: 128
     falling-block-height-nerf: 0
+    remove-unloaded:
+      enderpearls: true
+      tnt-entities: true
+      falling-blocks: true
     player-blocking-damage-multiplier: 0.5
     optimize-explosions: false
+    mob-spawner-tick-rate: 1
+    cache-chunk-maps: false
     remove-invalid-mob-spawner-tile-entities: true
     fast-drain:
       lava: false

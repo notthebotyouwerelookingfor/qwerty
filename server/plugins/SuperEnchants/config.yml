@@ -1,0 +1,13 @@
+blindnessDuration: 40 #Duration of blindness in ticks
+healthSteal: 0.25 #Percentage of damage dealt to the player that is given to the attacker
+bleedDuration: 20 #Duration of bleed in ticks
+bleedAmplifier: 5 #Amplifier of bleed
+fireDuration: 50 #Duration of fire in ticks
+lightningOnAttack: true
+lightningRightClick: true
+lightningCooldown: 5 #Cooldown of lightning in seconds
+teleportCooldown: 5 #Cooldown of teleport in seconds
+explosiveCooldown: 10 #Cooldown of explosive in seconds
+explosiveRadius: 1 #Radius of explosive
+freezeDuration: 20 #Duration of freeze in ticks
+confusionDuration: 80 #Duration of confusion in ticks

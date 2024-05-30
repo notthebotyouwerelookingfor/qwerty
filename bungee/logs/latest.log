@@ -48,3 +48,44 @@
 [01:44:14] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [01:44:14] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [01:44:14] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/qwerty/bungee/plugins/EaglercraftXBungee/eagcert/$dl.36f4cf2b9f9f3eb802b83ceecd0083b45c6001f9.cert
+[01:46:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39678]: Connected via websocket
+[01:46:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39678]: Origin header is null
+[01:46:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39678]: Logged in as 'Chasm'
+[01:46:04] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39678|Chasm] -> UpstreamBridge has connected
+[01:46:05] [Netty Worker IO Thread #1/INFO]: [Chasm|/[0:0:0:0:0:0:0:1%0]:39678] <-> ServerConnector [lobby] has connected
+[01:56:13] [Netty Worker IO Thread #2/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/qwerty/bungee/server-icon.png
+[01:56:17] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54166]: Connected via websocket
+[01:56:17] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54166]: Origin header is null
+[01:56:17] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54166]: Logged in as 'ChasmALT'
+[01:56:17] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54166|ChasmALT] -> UpstreamBridge has connected
+[01:56:17] [Netty Worker IO Thread #3/INFO]: [ChasmALT|/[0:0:0:0:0:0:0:1%0]:54166] <-> ServerConnector [lobby] has connected
+[01:58:43] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54166|ChasmALT] -> UpstreamBridge has disconnected
+[01:58:43] [Netty Worker IO Thread #3/INFO]: [ChasmALT] disconnected with: Proxy lost connection to server.
+[01:58:43] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54166|ChasmALT] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:00:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37942]: Connected via websocket
+[02:00:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37942]: Origin header is null
+[02:00:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37942]: Logged in as 'ChasmALT'
+[02:00:57] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:37942|ChasmALT] -> UpstreamBridge has connected
+[02:00:57] [Netty Worker IO Thread #1/INFO]: [ChasmALT|/[0:0:0:0:0:0:0:1%0]:37942] <-> ServerConnector [lobby] has connected
+[02:01:12] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:37942|ChasmALT] -> UpstreamBridge has disconnected
+[02:01:12] [Netty Worker IO Thread #1/INFO]: [ChasmALT] disconnected with: Proxy lost connection to server.
+[02:01:12] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:37942|ChasmALT] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:01:18] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54328]: Connected via websocket
+[02:01:18] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54328]: Origin header is null
+[02:01:18] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54328]: Logged in as 'ChasmALT'
+[02:01:18] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:54328|ChasmALT] -> UpstreamBridge has connected
+[02:01:18] [Netty Worker IO Thread #2/INFO]: [ChasmALT|/[0:0:0:0:0:0:0:1%0]:54328] <-> ServerConnector [lobby] has connected
+[02:02:32] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:54328|ChasmALT] -> UpstreamBridge has disconnected
+[02:02:32] [Netty Worker IO Thread #2/INFO]: [ChasmALT] disconnected with: Proxy lost connection to server.
+[02:02:32] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:54328|ChasmALT] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:06:22] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39678|Chasm] -> UpstreamBridge has disconnected
+[02:06:22] [Netty Worker IO Thread #1/INFO]: [Chasm] disconnected with: Proxy lost connection to server.
+[02:06:22] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39678|Chasm] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:10:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59210]: Connected via websocket
+[02:10:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59210]: Origin header is null
+[02:10:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59210]: Logged in as 'Chasm'
+[02:10:55] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59210|Chasm] -> UpstreamBridge has connected
+[02:10:55] [Netty Worker IO Thread #0/INFO]: [Chasm|/[0:0:0:0:0:0:0:1%0]:59210] <-> ServerConnector [lobby] has connected
+[02:13:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59210|Chasm] -> UpstreamBridge has disconnected
+[02:13:12] [Netty Worker IO Thread #0/INFO]: [Chasm] disconnected with: Proxy lost connection to server.
+[02:13:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59210|Chasm] <-> DownstreamBridge <-> [lobby] has disconnected

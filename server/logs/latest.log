@@ -321,3 +321,82 @@ org.bukkit.plugin.UnknownDependencyException: PlaceholderAPI
 
 [01:44:03] [Craft Scheduler Thread - 1/INFO]: [XItemsRemover] §aThe latest version of the plugin is used.
 [01:44:49] [Server thread/INFO]: [Server] hi
+[01:46:05] [Thread-6/INFO]: UUID of player Chasm is a9135625-ef58-363a-a5cf-ffc8d0732e29
+[01:46:05] [Server thread/INFO]: Chasm[/[0:0:0:0:0:0:0:1]:47958] logged in with entity id 276 at ([world]-240.5404631476029, 80.0, 117.4124598999324)
+[01:46:14] [Server thread/INFO]: Chasm issued server command: /plugins
+[01:46:44] [Server thread/INFO]: Chasm issued server command: /rank
+[01:46:48] [Server thread/INFO]: Chasm issued server command: /help rank
+[01:47:04] [Server thread/INFO]: Chasm issued server command: /rence ADMIN
+[01:47:15] [Server thread/INFO]: Chasm issued server command: //undo
+[01:47:15] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[01:48:46] [Server thread/INFO]: Chasm issued server command: //wall wood
+[01:48:52] [Server thread/INFO]: Chasm issued server command: /wall wood
+[01:48:56] [Server thread/INFO]: Chasm issued server command: /we help
+[01:49:01] [Server thread/INFO]: Chasm issued server command: //walls wood
+[01:50:02] [Server thread/INFO]: Chasm issued server command: /plugins
+[01:50:09] [Server thread/INFO]: Chasm issued server command: /superencahtns
+[01:50:12] [Server thread/INFO]: Chasm issued server command: /super
+[01:50:14] [Server thread/INFO]: Chasm issued server command: /se
+[01:50:19] [Server thread/INFO]: Chasm issued server command: /superenchants
+[01:50:23] [Server thread/INFO]: Chasm issued server command: /help se
+[01:50:32] [Server thread/INFO]: Chasm issued server command: /help superenchants
+[01:50:40] [Server thread/INFO]: Chasm issued server command: /liste
+[01:50:42] [Server thread/INFO]: Chasm issued server command: /le
+[01:50:49] [Server thread/INFO]: Chasm issued server command: /listenchants
+[01:51:31] [Server thread/INFO]: Chasm issued server command: /superenchant freeze
+[01:51:54] [Server thread/INFO]: Chasm issued server command: /gamemode s
+[01:51:54] [Server thread/INFO]: [Chasm: Set own game mode to Survival Mode]
+[01:52:24] [Server thread/INFO]: Chasm issued server command: /superenchant healthsteal
+[01:53:18] [Server thread/INFO]: Chasm issued server command: /se jetpack
+[01:53:26] [Server thread/INFO]: Chasm issued server command: /superenchant jetpack
+[01:53:38] [Server thread/INFO]: Chasm issued server command: /superenchant jetpack
+[01:53:47] [Server thread/INFO]: Chasm issued server command: /superenchant lightning
+[01:54:08] [Server thread/INFO]: [@: Given [Chasm's Head] * 1 to Chasm]
+[01:54:32] [Server thread/INFO]: Chasm issued server command: /weather thunder_storm
+[01:54:39] [Server thread/INFO]: Chasm issued server command: /weather thunder 30
+[01:54:39] [Server thread/INFO]: [Chasm: Changing to rain and thunder]
+[01:56:16] [Server thread/INFO]: Chasm was slain by Spider
+[01:56:17] [Thread-8/INFO]: UUID of player ChasmALT is 599a6b5b-5976-3e06-98bf-62940afe5e44
+[01:56:17] [Server thread/INFO]: ChasmALT[/[0:0:0:0:0:0:0:1]:51134] logged in with entity id 974 at ([world]-232.5, 80.0, 126.5)
+[01:56:23] [Server thread/INFO]: ChasmALT issued server command: /reg lol6969
+[01:57:47] [Server thread/INFO]: ChasmALT was slain by Chasm
+[01:58:19] [Server thread/WARN]: ChasmALT moved too quickly! -9.189257355339322,0.0,-4.903681523798866 (-9.189257355339322, 0.0, -4.903681523798866)
+[01:58:43] [Server thread/INFO]: ChasmALT lost connection: Disconnected
+[01:58:43] [Server thread/INFO]: ChasmALT left the game.
+[01:59:00] [Server thread/INFO]: Chasm issued server command: /plugins
+[01:59:12] [Server thread/INFO]: Chasm issued server command: /help Ranksystem
+[01:59:17] [Server thread/INFO]: Chasm issued server command: /ranksystem
+[01:59:24] [Server thread/INFO]: Chasm issued server command: /rank
+[01:59:28] [Server thread/INFO]: Chasm issued server command: /help ran
+[01:59:43] [Server thread/INFO]: Chasm issued server command: /ranksystem
+[01:59:49] [Server thread/INFO]: Chasm issued server command: /rank set damin
+[01:59:53] [Server thread/INFO]: Chasm issued server command: /rank
+[02:00:32] [Server thread/INFO]: Chasm issued server command: /ranksystem myrank
+[02:00:57] [Thread-9/INFO]: UUID of player ChasmALT is 599a6b5b-5976-3e06-98bf-62940afe5e44
+[02:00:57] [Server thread/INFO]: ChasmALT[/[0:0:0:0:0:0:0:1]:35216] logged in with entity id 1238 at ([world]-223.52200034502994, 80.0, 130.80376590047965)
+[02:01:12] [Server thread/INFO]: ChasmALT lost connection: Disconnected
+[02:01:12] [Server thread/INFO]: ChasmALT left the game.
+[02:01:18] [Thread-10/INFO]: UUID of player ChasmALT is 599a6b5b-5976-3e06-98bf-62940afe5e44
+[02:01:18] [Server thread/INFO]: ChasmALT[/[0:0:0:0:0:0:0:1]:48164] logged in with entity id 1294 at ([world]-229.5303289465771, 80.0, 126.87962208555199)
+[02:02:07] [Server thread/INFO]: ChasmALT was slain by Chasm
+[02:02:24] [Server thread/INFO]: ChasmALT issued server command: /superenchant
+[02:02:33] [Server thread/INFO]: ChasmALT lost connection: Disconnected
+[02:02:33] [Server thread/INFO]: ChasmALT left the game.
+[02:03:02] [Server thread/INFO]: Chasm issued server command: /rs listranks
+[02:03:28] [Server thread/INFO]: Chasm issued server command: /rs Reed co-owner
+[02:03:54] [Async Chat Thread - #0/INFO]: [0;31;1m[OWNER] Chasm[m: gamemode c[m
+
+[02:04:00] [Server thread/INFO]: Chasm issued server command: /gamemode c
+[02:04:00] [Server thread/INFO]: [Chasm: Set own game mode to Creative Mode]
+[02:05:05] [Server thread/INFO]: Chasm issued server command: /plugins
+[02:06:22] [Server thread/INFO]: Chasm lost connection: Disconnected
+[02:06:22] [Server thread/INFO]: Chasm left the game.
+[02:10:44] [Server thread/INFO]: [Server] wtf
+[02:10:55] [Thread-11/INFO]: UUID of player Chasm is a9135625-ef58-363a-a5cf-ffc8d0732e29
+[02:10:55] [Server thread/INFO]: Chasm[/[0:0:0:0:0:0:0:1]:35984] logged in with entity id 1479 at ([world]-244.87180715787625, 80.0, 106.06826287836117)
+[02:11:01] [Server thread/INFO]: Chasm issued server command: /l lol6969
+[02:11:31] [Server thread/INFO]: Chasm issued server command: /help dupepatch
+[02:11:35] [Server thread/INFO]: Chasm issued server command: /dupe
+[02:11:43] [Server thread/INFO]: Chasm issued server command: /dupepatch help
+[02:13:12] [Server thread/INFO]: Chasm lost connection: Disconnected
+[02:13:12] [Server thread/INFO]: Chasm left the game.
